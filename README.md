@@ -7,13 +7,18 @@ The organization conducted a comprehensive HR analytics review covering the peri
 - Employee Turnover
 The goal of this analysis is to provide leadership with data-driven insights to support workforce planning, talent management, and strategic decision-making.
 
-## 2. Business Problem
-The company faces several workforce-related challenges:
-- Understanding workforce composition and distribution across departments, job levels, demographics, and locations.
-- Identifying retention trends to assess workforce stability and engagement.
-- Diagnosing employee turnover drivers to reduce attrition and associated recruitment, training, and productivity costs.
-- Improving talent retention strategies, particularly among high-impact roles and departments.
-Without a consolidated view of these metrics, leadership risks making decisions based on assumptions rather than evidence.
+## 2. Business Problem Statement
+The company lacked a centralized, interactive reporting system to answer key HR questions such as:
+- Which departments are growing or shrinking?
+- Where is employee turnover highest?
+- Which job levels are at the greatest attrition risk?
+- What are the key drivers behind voluntary exits?
+- How effective are current employee retention strategies?
+Without these insights, leadership risked:
+- Rising recruitment costs
+- Loss of high-performing employees
+- Leadership pipeline instability
+- Reduced workforce productivity
 
 ## 3. Business Objectives
 The primary business objectives of this analysis are:
@@ -58,6 +63,16 @@ Turnover by:
 - Department
 - Termination type (voluntary vs involuntary)
 - Termination reason
+
+## Key KPIs Tracked
+
+- Total Headcount
+- Retention Rate (%)
+- Turnover Rate (%)
+- Voluntary vs Involuntary Attrition (%)
+- Department-wise Turnover
+- Leadership Attrition
+- Termination Reason Distribution
 
 ## 5. Executive Findings
 ### A. Workforce Composition & Headcount Insights
