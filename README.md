@@ -6,6 +6,7 @@ The organization conducted a comprehensive HR analytics review covering the peri
 - Employee Retention
 - Employee Turnover
 The goal of this analysis is to provide leadership with data-driven insights to support workforce planning, talent management, and strategic decision-making.
+(HR data analytics.gif)
 
 ## 2. Business Problem Statement
 The company lacked a centralized, interactive reporting system to answer key HR questions such as:
