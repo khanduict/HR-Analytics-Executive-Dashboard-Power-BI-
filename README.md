@@ -31,8 +31,7 @@ The primary business objectives of this analysis are:
 
 ## 4. Dashboard Overview
 ### A. Headcount Dashboard
-
-https://github.com/khanduict/HR-Analytics-Executive-Dashboard-Power-BI-/blob/main/HR%20data%20analytics%20dashboard_Page_1.jpg 
+![HR data analytics dashboard_Page_1](https://github.com/user-attachments/assets/d6695d1d-9f0e-4a54-b928-d24b8d747bb7)
 
 Provides insight into:
 - Total workforce size (2,796 employees in 2019)
@@ -44,6 +43,7 @@ Distribution by:
 - Geographic workforce distribution across cities
 
 ### B. Employee Retention Dashboard
+![HR data analytics dashboard_Page_2](https://github.com/user-attachments/assets/3ab1b050-a2b8-4187-9598-d8e7e4b75e83)
 
 Analyzes:
 - Overall retention rate (83.6%)
