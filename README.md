@@ -31,6 +31,7 @@ The primary business objectives of this analysis are:
 
 ## 4. Dashboard Overview
 
+
 ### A. Headcount Dashboard
 ![HR data analytics dashboard_Page_1](https://github.com/user-attachments/assets/d6695d1d-9f0e-4a54-b928-d24b8d747bb7)
 
