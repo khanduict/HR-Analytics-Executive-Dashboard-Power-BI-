@@ -31,7 +31,8 @@ The primary business objectives of this analysis are:
 
 ## 4. Dashboard Overview
 ### A. Headcount Dashboard
-!(https://github.com/khanduict/HR-Analytics-Executive-Dashboard-Power-BI-/blob/main/HR%20data%20analytics%20dashboard_Page_1.jpg)
+
+https://github.com/khanduict/HR-Analytics-Executive-Dashboard-Power-BI-/blob/main/HR%20data%20analytics%20dashboard_Page_1.jpg 
 
 Provides insight into:
 - Total workforce size (2,796 employees in 2019)
