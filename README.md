@@ -30,7 +30,7 @@ The primary business objectives of this analysis are:
 - To improve organizational stability, productivity, and employee satisfaction.
 
 ## 4. Dashboard Overview
-![Alt text for the image](image-url)
+![HR data analytics](https://github.com/khanduict/HR-Analytics-Executive-Dashboard-Power-BI-/blob/main/HR%20data%20analytics%20dashboard.gif)
 
 ### A. Headcount Dashboard
 ![HR data analytics dashboard_Page_1](https://github.com/user-attachments/assets/d6695d1d-9f0e-4a54-b928-d24b8d747bb7)
