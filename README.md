@@ -43,7 +43,6 @@ Distribution by:
 - Geographic workforce distribution across cities
 
 ### B. Employee Retention Dashboard
-![HR data analytics dashboard_Page_2](https://github.com/user-attachments/assets/58f7ac8c-629d-4fce-a471-8f61b66704ac)
 
 Analyzes:
 - Overall retention rate (83.6%)
